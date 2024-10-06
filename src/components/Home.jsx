@@ -10,7 +10,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Hamza Akram",
-        "I'm Fronend developer (React JS)",
+        "I'm Fronend developer",
        
       ],
       typeSpeed: 50,
@@ -32,7 +32,7 @@ const Home = () => {
           <h1 ref={typedRef}></h1>
 
           <a
-            href={pdf}
+            // href={pdf}
             download="Resume.pdf"
             className="btn btn-outline-warning my-3"
           >
