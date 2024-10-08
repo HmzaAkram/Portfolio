@@ -16,7 +16,7 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/itx_hamza207/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
           <a href="https://www.google.com" target="_blank" className="items">
