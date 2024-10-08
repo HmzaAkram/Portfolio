@@ -19,7 +19,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 }
 
 .nav_bar .nav_items {
@@ -32,7 +32,6 @@ a {
   border-bottom: 3px solid yellow;
 }
 
-
 /* Home Section */
 
 .home {
@@ -40,25 +39,25 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 }
 
 .home .left {
   background-color: var(--bg-color);
-  width: 620px;
+  width: 100%;
+  max-width: 620px;
   text-align: center;
   padding: 30px;
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+  margin-bottom: 20px; /* Add margin for spacing on smaller screens */
 }
 
 .home .right .img {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-color: yellow; */
-  /* height: 350px;
-  width: 350px; */
 }
 
 .home .right .img img {
@@ -104,7 +103,9 @@ a {
 /* Experience Section */
 
 .ex {
-  width: 900px;
+  width: 100%;
+  max-width: 900px;
+  margin: auto; /* Center the section */
 }
 
 .ex-items {
@@ -114,16 +115,20 @@ a {
   background-color: var(--bg-color);
   margin: 20px;
   padding: 30px;
-  width: 800px;
+  width: 100%;
+  max-width: 800px;
   border-radius: 10px;
   border: 1px solid yellow;
   box-shadow: var(--box-shadow);
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 }
 
 /* Skills */
 
 .skills {
-  width: 900px;
+  width: 100%;
+  max-width: 900px;
+  margin: auto; /* Center the section */
 }
 
 .skills .items {
@@ -131,13 +136,11 @@ a {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  /* width: 800px; */
   margin: auto;
-  /* background-color: yellow; */
 }
 
 .skills .items .item {
-  width: calc(33.33%);
+  width: calc(33.33% - 40px); /* Adjust width to account for margin */
   background-color: black;
   margin: 20px;
   text-align: center;
@@ -158,6 +161,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
 }
 
 .contact-icon .items {
@@ -179,4 +183,26 @@ a {
 
 .contact-icon .items .icons {
   font-size: 2rem;
+}
+
+/* Media Queries for Responsiveness */
+
+@media (max-width: 768px) {
+  .home {
+    flex-direction: column; /* Stack items vertically on smaller screens */
+  }
+
+  .home .left, .home .right .img {
+    width: 100%; /* Full width on smaller screens */
+  }
+
+  .skills .items .item {
+    width: calc(50% - 40px); /* Adjust width for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .skills .items .item {
+    width: calc(100% - 40px); /* Full width on very small screens */
+  }
 }
