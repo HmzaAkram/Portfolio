@@ -9,9 +9,7 @@ const Navbar = () => {
       >
         <div className="left nav_items">Itx Me Hmza</div>
         <div className="right">
-          <a href="#home" className="nav_items">
-            Home
-          </a>
+         
           {/* <a href="#experience" className="nav_items">
             Experience
           </a> */}
