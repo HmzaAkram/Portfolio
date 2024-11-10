@@ -10,12 +10,7 @@ const Contact = () => {
   return (
     <>
       <div className="container contact" id="contact">
-        <h1>CONTACT ME</h1>
-        <div
-          className="contact-icon"
-          data-aos="zoom-in-up"
-          data-aos-duration="1000"
-        >
+      
           <a href="https://www.instagram.com/itx_hamza207/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
