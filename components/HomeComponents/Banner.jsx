@@ -19,8 +19,8 @@ const Banner = () => {
                                             <Typewriter
                                                 options={{
                                                     strings:
-                                                        ['MERN Stack Developer',
-                                                            'NexJs Developer'],
+                                                        ['Full Stack Developer',
+                                                            'WordPress Developer'],
                                                     autoStart: true,
                                                     loop: true,
                                                 }}
@@ -46,12 +46,12 @@ const Banner = () => {
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>8+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>0</span>
                         <span className='text-xs text-Snow'>Freelance Clients</span>
                     </div>
 
                     <div className="flex items-center gap-x-1">
-                        <span className='text-base md:text-lg text-Green font-bold'>5+</span>
+                        <span className='text-base md:text-lg text-Green font-bold'>0</span>
                         <span className='text-xs text-Snow'>Honors & Awards</span>
                     </div>
 
