@@ -3,7 +3,7 @@ const portfolio = [
         id: 0,
         projectName: "Hire Hub",
         url: "https://hire-hub-chi.vercel.app/",
-        image: "projects/erp.png",
+        image: "projects/Hire_Hub.png",
         projectDetail: "HireHub is a dynamic platform designed to connect IT professionals with exciting job opportunities. Our mission is to bridge the gap between talented individuals and top tech companies by offering a seamless job search experience. Whether you're a developer, data scientist, or IT specialist, HireHub provides a wide range of career possibilities tailored to your expertise. Start your journey with us and find your next big opportunity in the ever-evolving world of technology.",
         technologiesUsed: [
             {
@@ -23,9 +23,9 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "ABSCO",
-        url: "https://absco.sa/",
-        image: "projects/absco.png",
+        projectName: "Trip Planner",
+        url: "https://travel-w-eb-bodz.vercel.app/",
+        image: "projects/Trip_Planner.png",
         projectDetail: "The necessity for a Trip Planner website arises from the growing interest in travel and the demand for efficient online planning. The platform aims to consolidate trip planning by offering personalized recommendations, cost comparisons, and real-time updates, thus enhancing user convenience. The project caters to a diverse range of travelers, providing tools for managing transportation, accommodation, and activities, ensuring a tailored experience for each individual.",
         technologiesUsed: [
             {
