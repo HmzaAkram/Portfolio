@@ -25,11 +25,30 @@ const background = [
 
         ]
     },
-    
+    {
+        expCards: [
+            {
+                id: 1,
+                title: 'Contest-Azm(Compitition)',
+                role: 'Frontend Developer',
+                url: 'https://soccer-verse-1kmvbu6x5-hmzaakrams-projects.vercel.app/',
+                desc: 'As a frontend developer,Just simple frontend.',
+                year: '08/2024 - Present',
+                location: 'Karachi, Pakistan'
+            },
+            {
+                id: 2,
+                title: 'Techwiz 5(Compitition)',
+                role: 'Web Application Developer',
+                url: 'https://travel-w-eb-bodz.vercel.app/',
+                desc: 'As an Web Application Developer, I learned how to do project at limited time.',
+                year: '05/2024 - Present',
+                location: 'Karachi, Pakistan'
+            },
 
         ]
-    
-
+    }
+]
 
 
 export default function handler(req, res) {
