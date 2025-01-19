@@ -1,16 +1,16 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Hamza Akram';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Full Stack Developer | WordPress Developer | Logo Designer`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  City: 'Karachi',
+  Age: '17',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
+    title: 'Full Stack Developer',
     level: '75%',
   },
   {
@@ -35,10 +35,9 @@ export const TECH_STACK = [
   'JavaScript',
   'ReactJS',
   'NextJS',
-  'TypeScript',
+  
   'NodeJS',
-  'Redux',
-  'Zustand',
+  
   'CSS',
   'SCSS',
   'TailwindCSS',
@@ -50,18 +49,18 @@ export const TECH_STACK = [
   'MySQL',
   'Git',
   'GitHub',
-  'Jira',
+  'Canva',
   'Figma',
-  'Adobe XD',
+ 
 ];
 
 export const CONTACTS = {
   EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  PHONE: '+923152123010',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/HmzaAkram',
+  LINKEDIN: 'https://www.linkedin.com/in/',
+  TWITTER: 'https://twitter.com',
+  FACEBOOK: 'https://www.facebook.com/',
 };
