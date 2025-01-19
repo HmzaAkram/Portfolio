@@ -1,26 +1,24 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM ERP",
-        url: "https://jmmerp.com/",
+        projectName: "Hire Hub",
+        url: "https://hire-hub-chi.vercel.app/",
         image: "projects/erp.png",
-        projectDetail: "Restructure your business with JMM ERP’s all-in-one cloud-based ERP. JMM ERP provides a robust, cost-effective online solution with state-of-the-art software to increase business value and enhance customer impact.",
+        projectDetail: "HireHub is a dynamic platform designed to connect IT professionals with exciting job opportunities. Our mission is to bridge the gap between talented individuals and top tech companies by offering a seamless job search experience. Whether you're a developer, data scientist, or IT specialist, HireHub provides a wide range of career possibilities tailored to your expertise. Start your journey with us and find your next big opportunity in the ever-evolving world of technology.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "HTML"
             },
             {
-                tech: ".net"
+                tech: "JavaScript"
             },
             {
-                tech: "GraphQL"
+                tech: "CSS"
             },
             {
-                tech: "Ant Design"
+                tech: "JSON"
             },
-            {
-                tech: "TailwindCSS"
-            },
+           
         ]
     },
     {
@@ -28,7 +26,7 @@ const portfolio = [
         projectName: "ABSCO",
         url: "https://absco.sa/",
         image: "projects/absco.png",
-        projectDetail: "ABSCO offer unparalleled business consulting solutions to meet client’s unique needs.",
+        projectDetail: "The necessity for a Trip Planner website arises from the growing interest in travel and the demand for efficient online planning. The platform aims to consolidate trip planning by offering personalized recommendations, cost comparisons, and real-time updates, thus enhancing user convenience. The project caters to a diverse range of travelers, providing tools for managing transportation, accommodation, and activities, ensuring a tailored experience for each individual.",
         technologiesUsed: [
             {
                 tech: "ReactJS"
