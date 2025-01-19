@@ -27,14 +27,14 @@ const Contact = () => {
                                 <span className='text-LightGray md:text-sm'>Karachi</span>
                             </div>
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Company:</span>
-                                <span className='text-LightGray md:text-sm'></span>
+                                <span className='md:text-base'>Study:</span>
+                                <span className='text-LightGray md:text-sm'>Apptech</span>
                             </div>
                         </div>
                         <div className="card_stylings rounded-xl w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Email:</span>
-                                <span className='text-LightGray text-sm'>iosamajavaid@gmail.com</span>
+                                <span className='text-LightGray text-sm'>hmzaakram295@gmail.com</span>
                             </div>
                             <div className="flex justify-between items-center">
                                 <span className='md:text-base'>Linkedin:</span>
