@@ -55,7 +55,7 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
+  EMAIL: 'hmzaakram295@gmail.com.com',
   PHONE: '+923152123010',
 };
 export const SOCIAL_LINKS = {
