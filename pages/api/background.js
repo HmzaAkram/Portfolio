@@ -27,7 +27,7 @@ const background = [
                 title: 'Pakistan Freelancers Association(PAFLA)',
                 degree: 'Google Soft Skills Program',
                 detail: "Completed Google Soft Skills Program from Pakistan Freelancers Association",
-                year: '2013-2015'
+                year: 'Nov 30/2024',
             },
 
 
@@ -35,6 +35,15 @@ const background = [
     },
     {
         expCards: [
+            {
+                id: 0,
+                title: 'Semester Project',
+                role: 'Create FrontEnd',
+                url: 'https://jensen-decors-iota.vercel.app/',
+                desc: 'As a frontend developer,Just simple frontend.',
+                year: '05/2024 - Present',
+                location: 'Karachi, Pakistan'
+            },
             {
                 id: 1,
                 title: 'Contest-Azm(Compitition)',
