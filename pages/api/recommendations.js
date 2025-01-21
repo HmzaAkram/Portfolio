@@ -26,11 +26,11 @@ const recommendationCard = [
   },
   {
     id: 3,
-    name: 'Muhammad Ullah',
+    name: 'Muhammad Afan',
     image: "images/muhammad.jpeg",
     designation: 'MERN Stack Developer at Productbox',
-    view: "I highly recommend Osama Javed for web frontend development positions. Their expertise in ReactJS and Next.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
-    linkednURL: "https://www.linkedin.com/in/muhammadullahafridi/"
+    view: "I highly recommend Hamza Akram for web frontend development positions. Their expertise in ReactJS and Next.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
+    linkednURL: "https://www.linkedin.com/in/"
   },
 ]
 export default function handler(req, res) {
