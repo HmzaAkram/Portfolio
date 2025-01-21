@@ -6,6 +6,11 @@ const expertise = [
     },
     {
         id: 1,
+        title: 'React JS Developer',
+        desc: "SQL Server Management Studio(SSMS)streamlines database management with tools for queries, analysis, backups, tuning, and monitoring, offering an intuitive interface for efficient administration.",
+    },
+    {
+        id: 1,
         title: 'Github',
         desc: "GitHub is crucial for version control and team collaboration. Features like pull requests, issue tracking, and continuous integration streamline workflows, ensuring organized, up-to-date code for development success.",
     },
@@ -22,7 +27,7 @@ const expertise = [
     {
         id: 4,
         title: 'SQLServer Managment',
-        desc: "WordPress is a versatile CMS powering over 40% of websites. Its flexibility, themes, plugins, and ease of use enable creating functional sites without coding expertise",
+        desc: "SQL Server Management Studio(SSMS)streamlines database management with tools for queries, analysis, backups, tuning, and monitoring, offering an intuitive interface for efficient administration.",
     },
    
 ]
