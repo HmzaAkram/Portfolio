@@ -86,22 +86,22 @@ const portfolio = [
         projectName: "stremify",
         url: "https://stremify-beta-seven.vercel.app/",
         image: "projects/stremify.png",
-        projectDetail: "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
+        projectDetail: "Streamify is an anime lover’s app that offers a vast collection of anime from all genres. It provides users with the ability to stream their favorite anime series and movies with high-quality video playback. The app features a user-friendly interface, personalized recommendations, and the option to create watchlists, ensuring fans have access to all the latest and classic anime titles at their fingertips.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Html",
             },
             {
-                tech: ".net"
+                tech: "Css"
             },
             {
-                tech: "REST API's"
+                tech: "Javascript"
             },
             {
-                tech: "Ant Design"
+                tech: "Json"
             },
             {
-                tech: "TailwindCSS"
+                tech: "Bootstrap"
             },
         ]
     },
