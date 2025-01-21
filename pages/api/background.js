@@ -22,6 +22,14 @@ const background = [
                 detail: "Completed SSC part 1 and part 2 in Science subjects from Modern Touch English Grammar School ,Karachi",
                 year: '2013-2015'
             },
+            {
+                id: 3,
+                title: 'National Vocational & Technical Training Commission (NAVTTC)',
+                degree: 'SSC, Science Subjects',
+                detail: "Completed SSC part 1 and part 2 in Science subjects from Modern Touch English Grammar School ,Karachi",
+                year: '2013-2015'
+            },
+
 
         ]
     },
