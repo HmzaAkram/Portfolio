@@ -42,21 +42,15 @@ const portfolio = [
     {
         id: 0,
         projectName: "Weather App",
-        url: "https://jmm.ltd/",
+        url: "https://weather-app-ij18.vercel.app/",
         image: "projects/weather.png",
-        projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
+        projectDetail: "A weather app provides real-time weather updates, forecasts, and alerts. It displays information such as temperature, humidity, wind speed, and precipitation for a selected location. Advanced features may include hourly/daily forecasts, radar maps, and notifications for severe weather conditions.",
         technologiesUsed: [
             {
                 tech: "ReactJS"
             },
             {
-                tech: ".net"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Ant Design"
+                tech: "Weather API's"
             },
             {
                 tech: "TailwindCSS"
@@ -65,25 +59,25 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "ALSN",
-        url: "https://alsn.app/",
-        image: "projects/alsn.png",
+        projectName: "Jensen & Decorations",
+        url: "https://jensen-decors-iota.vercel.app/",
+        image: "projects/jensen.png",
         projectDetail: "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "HTML"
             },
             {
-                tech: ".net"
+                tech: "Css"
             },
             {
-                tech: "REST API's"
+                tech: "JavaScript"
             },
             {
-                tech: "Ant Design"
+                tech: "Bootstrap"
             },
             {
-                tech: "TailwindCSS"
+                tech: "Jquery"
             },
         ]
     },
