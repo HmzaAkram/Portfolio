@@ -7,7 +7,7 @@ const expertise = [
     {
         id: 1,
         title: 'Github',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        desc: "GitHub is crucial for version control and team collaboration. Features like pull requests, issue tracking, and continuous integration streamline workflows, ensuring organized, up-to-date code for development success.",
     },
     {
         id: 2,
