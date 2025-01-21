@@ -1,6 +1,6 @@
 export const NAME = 'Hamza Akram';
 
-export const DESIGNATION = `Full Stack Developer | WordPress Developer | Logo Designer`;
+export const DESIGNATION = ` Developer | WordPress Developer | Logo Designer`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
@@ -10,20 +10,17 @@ export const DETAILS = {
 
 export const SKILLS = [
   {
-    title: 'Full Stack Developer',
-    level: '75%',
+    title: 'Web Applicaton Developer',
+    level: '90%',
   },
   {
     title: 'React Developer',
     level: '91%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
+
   {
     title: 'Backend Developer',
-    level: '54%',
+    level: '70%',
   },
   {
     title: 'My Sql',
