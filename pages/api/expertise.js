@@ -19,6 +19,11 @@ const expertise = [
         title: 'WordPress',
         desc: "WordPress is a versatile CMS powering over 40% of websites. Its flexibility, themes, plugins, and ease of use enable creating functional sites without coding expertise",
     },
+    {
+        id: 4,
+        title: 'SQLServer Managment',
+        desc: "WordPress is a versatile CMS powering over 40% of websites. Its flexibility, themes, plugins, and ease of use enable creating functional sites without coding expertise",
+    },
    
 ]
 
