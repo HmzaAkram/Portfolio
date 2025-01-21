@@ -26,8 +26,8 @@ export const SKILLS = [
     level: '54%',
   },
   {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'My Sql',
+    level: '60%',
   },
 ];
 
@@ -41,7 +41,6 @@ export const TECH_STACK = [
   'CSS',
   'SCSS',
   'TailwindCSS',
-  'Ant Design',
   'Material UI',
   'Next UI',
   'REST API',
