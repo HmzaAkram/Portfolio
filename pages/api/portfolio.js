@@ -83,9 +83,9 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "FirmSanad",
-        url: "/domain-expired",
-        image: "projects/firmsanad.png",
+        projectName: "stremify",
+        url: "https://stremify-beta-seven.vercel.app/",
+        image: "projects/stremify.png",
         projectDetail: "Invest in Saudi Arabia, Streamline Your Business Setup Process in Saudi Arabia with FirmSanad Simplify the process of obtaining licenses and starting a business in Saudi Arabia with our streamlined platform.",
         technologiesUsed: [
             {
