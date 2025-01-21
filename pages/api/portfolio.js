@@ -62,7 +62,7 @@ const portfolio = [
         projectName: "Jensen & Decorations",
         url: "https://jensen-decors-iota.vercel.app/",
         image: "projects/jensen.png",
-        projectDetail: "ASLN drives digital transformation with certified document translation services. In an interconnected world where seamless communication is imperative, they are strategically positioned to cater to the needs of businesses, individuals, and organizations.",
+        projectDetail: "Jensen & Decorations specializes in high-quality decorative items for various occasions, including home decor, seasonal, and event decorations. They focus on creating elegant and creative designs for holidays, weddings, and corporate events..",
         technologiesUsed: [
             {
                 tech: "HTML"
