@@ -1,7 +1,7 @@
 const expertise = [
     {
         id: 0,
-        title: 'Full Stack Development',
+        title: 'Laravel Developer',
         desc: 'I am a full-stack developer specializing in Laravel, skilled in building complete web applications that integrate robust back-end functionality with modern front-end features',
     },
     {
@@ -16,14 +16,10 @@ const expertise = [
     },
     {
         id: 3,
-        title: 'Github',
-        desc: "GitHub is essential for version control and collaboration. Its intuitive interface and features like pull requests and issue tracking simplify the process. Continuous integration ensures up-to-date code. GitHub is vital to my success as a developer.",
+        title: 'WordPress',
+        desc: "WordPress is a powerful content management system (CMS) that powers over 40% of the web. Its flexibility and ease of use make it an ideal choice for blogs, business websites, and even e-commerce platforms. With thousands of themes and plugins, WordPress allows users to create fully customized and functional websites without extensive coding knowledge. Its open-source nature fosters an active community, constantly improving features and security.",
     },
-    {
-        id: 4,
-        title: 'Open Source Contributor',
-        desc: "Open Source is the future. I usually take some time on weekend and contribute into opensource project. It gives me opportunity to learn from best developer's practices and also gives me a chance to help others and contribute into the community for the good.",
-    },
+   
 ]
 
 export default function handler(req, res) {
