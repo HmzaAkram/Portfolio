@@ -1,6 +1,6 @@
 export const NAME = 'Hamza Akram';
 
-export const DESIGNATION = ` Developer | WordPress Developer | Logo Designer`;
+export const DESIGNATION = `Web Applicaton Developer | WordPress Developer | Logo Designer`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
