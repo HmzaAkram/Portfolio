@@ -43,7 +43,7 @@ const portfolio = [
         id: 0,
         projectName: "Weather App",
         url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
+        image: "projects/weather.png",
         projectDetail: "JMM Technologies is a start-up turned technology company with extensive years of experience delivering digital solutions. As a fast-growing tech firm, we help diverse businesses and organizations. Our expertise in innovative, state-of-the-art digital services accelerates business growth and enhances customer impact.",
         technologiesUsed: [
             {
