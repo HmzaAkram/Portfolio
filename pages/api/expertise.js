@@ -17,7 +17,7 @@ const expertise = [
     {
         id: 3,
         title: 'WordPress',
-        desc: "WordPress is a powerful content management system (CMS) that powers over 40% of the web. Its flexibility and ease of use make it an ideal choice for blogs, business websites, and even e-commerce platforms. With thousands of themes and plugins, WordPress allows users to create fully customized and functional websites without extensive coding knowledge. Its open-source nature fosters an active community, constantly improving features and security.",
+        desc: "WordPress is a versatile CMS powering over 40% of websites. Its flexibility, themes, plugins, and ease of use enable creating functional sites without coding expertise",
     },
    
 ]
