@@ -105,30 +105,27 @@ const portfolio = [
             },
         ]
     },
-    // {
-    //     id: 0,
-    //     projectName: "Fateh Al Mustaqbil",
-    //     url: "https://fatehtour.com/",
-    //     image: "projects/fateh.png",
-    //     projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "ReactJS"
-    //         },
-    //         {
-    //             tech: ".net"
-    //         },
-    //         {
-    //             tech: "REST API's"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+    {
+        id: 0,
+        projectName: "Place plants",
+        url: "https://fatehtour.com/",
+        image: "projects/plant.png",
+        projectDetail: "Fateh Al Mustaqbil is a one-of-a-kind travel agency designed to cater to the interests of travelers across the globe, founded in 2023 in Riyadh, Saudi Arabia. Their expertise lies in crafting exceptional journeys tailored to each client's unique requirements, whether it be ticketing, hotel bookings, or visa assistance.",
+        technologiesUsed: [
+            {
+                tech: "Html"
+            },
+            {
+                tech: "CSS"
+            },
+            {
+                tech: "Java Script"
+            },
+            {
+                tech: "Bootstrap"
+            },
+        ]
+    },
     // {
     //     id: 0,
     //     projectName: "Tojjar",
