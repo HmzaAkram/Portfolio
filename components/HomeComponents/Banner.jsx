@@ -57,7 +57,7 @@ const Banner = () => {
 
                     <div className="flex items-center gap-x-1">
                         <span className='text-base md:text-lg text-Green font-bold'>3</span>
-                        <span className='text-xs text-Snow'>Compipition Projects</span>
+                        <span className='text-xs text-Snow'> Projects</span>
                     </div>
 
                 </div>
