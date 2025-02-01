@@ -129,7 +129,7 @@ const portfolio = [
     {
         id: 0,
         projectName: "Garden World",
-        url: "/domain-expired",
+        url: "https://garden-world.vercel.app/ ",
         image: "projects/tojjar.png",
         projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
         technologiesUsed: [
