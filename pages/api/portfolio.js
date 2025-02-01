@@ -137,7 +137,7 @@ const portfolio = [
                 tech: "Html"
             },
             {
-                tech: "Laravel"
+                tech: "css"
             },
             {
                 tech: "REST API's"
