@@ -128,7 +128,7 @@ const portfolio = [
     },
     {
         id: 0,
-        projectName: "Tojjar",
+        projectName: "Garden ",
         url: "/domain-expired",
         image: "projects/tojjar.png",
         projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
