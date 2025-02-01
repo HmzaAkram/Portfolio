@@ -140,13 +140,10 @@ const portfolio = [
                 tech: "css"
             },
             {
-                tech: "REST API's"
+                tech: "Java Script"
             },
             {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
+                tech: "Bootsrap"
             },
         ]
     },
