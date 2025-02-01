@@ -131,7 +131,7 @@ const portfolio = [
         projectName: "Garden World",
         url: "https://garden-world.vercel.app/ ",
         image: "projects/garden-world.png",
-        projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
+        projectDetail: "Garden world is an Plant website,  where you can care of our plant and buyying tools and also buyying plants!",
         technologiesUsed: [
             {
                 tech: "Nextjs with SSR"
