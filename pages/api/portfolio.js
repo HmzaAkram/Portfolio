@@ -134,7 +134,7 @@ const portfolio = [
         projectDetail: "Garden world is an Plant website,  where you can care of our plant and buyying tools and also buyying plants!",
         technologiesUsed: [
             {
-                tech: "Nextjs with SSR"
+                tech: "Html"
             },
             {
                 tech: "Laravel"
