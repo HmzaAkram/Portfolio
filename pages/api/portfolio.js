@@ -126,30 +126,30 @@ const portfolio = [
             },
         ]
     },
-    // {
-    //     id: 0,
-    //     projectName: "Tojjar",
-    //     url: "/domain-expired",
-    //     image: "projects/tojjar.png",
-    //     projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "Nextjs with SSR"
-    //         },
-    //         {
-    //             tech: "Laravel"
-    //         },
-    //         {
-    //             tech: "REST API's"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+    {
+        id: 0,
+        projectName: "Tojjar",
+        url: "/domain-expired",
+        image: "projects/tojjar.png",
+        projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
+        technologiesUsed: [
+            {
+                tech: "Nextjs with SSR"
+            },
+            {
+                tech: "Laravel"
+            },
+            {
+                tech: "REST API's"
+            },
+            {
+                tech: "Ant Design"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+        ]
+    },
     // {
     //     id: 1,
     //     projectName: "Otawix",
