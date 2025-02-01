@@ -130,7 +130,7 @@ const portfolio = [
         id: 0,
         projectName: "Garden World",
         url: "https://garden-world.vercel.app/ ",
-        image: "projects/garden-world.png",
+        image: "projects/garden_world.png",
         projectDetail: "Garden world is an Plant website,  where you can care of our plant and buyying tools and also buyying plants!",
         technologiesUsed: [
             {
