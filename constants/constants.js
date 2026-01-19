@@ -14,7 +14,7 @@ export const SKILLS = [
     level: '90%',
   },
   {
-    title: 'React Developer',
+    title: 'GenAi Developer',
     level: '91%',
   },
 
@@ -23,7 +23,7 @@ export const SKILLS = [
     level: '70%',
   },
   {
-    title: 'My Sql',
+    title: 'Frontend',
     level: '60%',
   },
 ];
