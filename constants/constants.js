@@ -23,7 +23,7 @@ export const SKILLS = [
     level: '70%',
   },
   {
-    title: 'Frontend',
+    title: 'Frontend Developer',
     level: '60%',
   },
 ];

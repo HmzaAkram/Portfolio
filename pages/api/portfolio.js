@@ -1,6 +1,28 @@
 const portfolio = [
     {
         id: 0,
+        projectName: "Talk To Text Pro",
+        url: "https://talk-to-text-psi.vercel.app/",
+        image: "projects/tttp.png",
+        projectDetail: "TalkToText Pro revolutionizes meeting documentation by automatically converting your audio/video recordings into structured, actionable notes. Powered by Google's Gemini AI, it transcribes, translates, and summarizes meetings with 95%+ accuracy.",
+        technologiesUsed: [
+            {
+                tech: "Next.js"
+            },
+            {
+                tech: "Python"
+            },
+            {
+                tech: "Gemeni"
+            },
+            {
+                tech: "sqllite"
+            },
+           
+        ]
+    },
+    {
+        id: 0,
         projectName: "Hire Hub",
         url: "https://hire-hub-chi.vercel.app/",
         image: "projects/Hire_Hub.png",
