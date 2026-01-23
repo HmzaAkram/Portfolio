@@ -5,7 +5,7 @@ export const DESIGNATION = `Web Applicaton Developer | WordPress Developer | Log
 export const DETAILS = {
   Residence: 'Pakistan',
   City: 'Karachi',
-  Age: '17',
+  Age: '19',
 };
 
 export const SKILLS = [
