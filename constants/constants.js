@@ -1,6 +1,6 @@
 export const NAME = 'Hamza Akram';
 
-export const DESIGNATION = `Web Applicaton Developer | WordPress Developer | Logo Designer`;
+export const DESIGNATION = `Software Engineer | Laravel Developer | Python Developer`;
 
 export const DETAILS = {
   Residence: 'Pakistan',
@@ -34,6 +34,8 @@ export const TECH_STACK = [
   'NextJS',
   
   'NodeJS',
+  'Laravel',
+  'Python',
   
   'CSS',
   'SCSS',
@@ -56,7 +58,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/HmzaAkram',
-  LINKEDIN: 'https://www.linkedin.com/in/',
+  LINKEDIN: 'https://www.linkedin.com/in/hamza-akram-7ba804394',
   TWITTER: 'https://twitter.com',
   FACEBOOK: 'https://www.facebook.com/',
 };

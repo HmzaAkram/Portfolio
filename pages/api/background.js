@@ -62,6 +62,15 @@ const background = [
                 year: '05/2024 - Present',
                 location: 'Karachi, Pakistan'
             },
+            {
+                id: 3,
+                title: 'Techwiz 6 (Competition)',
+                role: 'Generative AI Developer',
+                url: '#',
+                desc: 'Won 1st Runner-up position (2nd Position) in Techwiz 6 competition, specializing in Generative AI development.',
+                year: '2025',
+                location: 'Karachi, Pakistan'
+            },
 
         ]
     }

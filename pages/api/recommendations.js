@@ -32,6 +32,7 @@ const recommendationCard = [
     view: "I highly recommend Hamza Akram for web frontend development positions. Their expertise in ReactJS and Next.js, combined with their professionalism and dedication, make them an invaluable asset to any team.",
     linkednURL: "https://www.linkedin.com/in/"
   },
+
 ]
 export default function handler(req, res) {
   res.status(200).json(recommendationCard)

@@ -238,6 +238,51 @@ const portfolio = [
     // //         },
     // //     ]
     // // },
+    {
+        id: 0,
+        projectName: "JI Education",
+        url: "https://jieducation.in/",
+        image: "projects/jieducation.png",
+        projectDetail: "JI Education is an educational platform providing various learning resources. (Client Product/Tech etc. Confidential)",
+        technologiesUsed: [
+            {
+                tech: "ReactJS"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Thaheem Brother Logistics",
+        url: "https://thaheembrothers.com/",
+        image: "projects/thaheembrothers.png",
+        projectDetail: "Thaheem Brother Logistics Company specializes in comprehensive logistics and supply chain management. (Client Product/Tech etc. Confidential)",
+        technologiesUsed: [
+            {
+                tech: "Laravel"
+            },
+            {
+                tech: "MySQL"
+            },
+        ]
+    },
+    {
+        id: 0,
+        projectName: "Al-Kareem Real Estate",
+        url: "https://alkareemrs.com/",
+        image: "projects/alkareemrs.png",
+        projectDetail: "Al-Kareem Real Estate is a premium real estate agency platform for property management and sales. (Client Product/Tech etc. Confidential)",
+        technologiesUsed: [
+            {
+                tech: "Next.js"
+            },
+            {
+                tech: "TailwindCSS"
+            },
+        ]
+    },
 ]
 export default function handler(req, res) {
     res.status(200).json(portfolio)

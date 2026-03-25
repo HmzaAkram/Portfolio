@@ -21,8 +21,8 @@ const expertise = [
     },
     {
         id: 4,
-        title: 'WordPress',
-        desc: "WordPress is a versatile CMS powering over 40% of websites. Its flexibility, themes, plugins, and ease of use enable creating functional sites without coding expertise",
+        title: 'Python Developer',
+        desc: "Python developer skilled in building robust, scalable applications. Expertise in Django, Flask, and FastAPI for backend development, as well as data analysis and automation.",
     },
     {
         id: 5,
